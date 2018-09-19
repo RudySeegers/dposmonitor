@@ -1,0 +1,2 @@
+psycopg2==2.7.5
+dpostools==0.1.1
